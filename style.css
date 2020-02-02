@@ -1,0 +1,53 @@
+.svg {
+  height: 75%;
+}
+
+.metas {
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}
+
+#anne_btn {
+  border-color: #ff0000;
+}
+#astrologer_btn {
+  border-color: #ffff00;
+}
+#captain_btn {
+  border-color: #4a86e8;
+}
+#cryptozoicologist_btn {
+  border-color: #00ffff;
+}
+#cubs_scout_btn {
+  border-color: #1700ff;
+}
+#jack_btn {
+  border-color: #ff00ff;
+}
+#mr_patel_btn {
+  border-color: #980000;
+}
+#ms_cunningham_btn {
+  border-color: #999999;
+}
+#sam_btn {
+  border-color: #00ff00;
+}
+#trainer_btn {
+  border-color: #ff9900;
+}
+#zeus_btn {
+  border-color: #9900ff;
+}
+
+.disabled {
+  opacity: 30%;
+}
+
+.btn {
+  margin: 0;
+  border: 2px solid;
+}
